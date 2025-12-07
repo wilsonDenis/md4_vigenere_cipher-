@@ -55,7 +55,7 @@ Tags conseillés :
 ⏪ Revenir à un commit précédent
 git checkout <id_commit>
 
-🧠 Principes de développement
+ Principes de développement
 ✔️ KISS
 Keep It Simple and Stupid → Faire simple. Pas de complexité inutile.
 ✔️ DRY
@@ -65,6 +65,4 @@ Accumulation de mauvaises pratiques, de shortcuts, de code compliqué ou mal arc
 ✔️ Convention
 Toutes vos variables, fonctions et noms de fichiers doivent être en anglais.
 
-Si tu veux, je peux aussi : ✅ compléter avec des exemples ✅ organiser en PDF ou fiche récap ✅ ajouter du code, des schémas, ou des exercices
-Souhaites-tu une version encore plus propre / détaillée ?
 
